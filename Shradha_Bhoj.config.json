@@ -1,0 +1,18 @@
+{
+  "minAmount": 20,
+  "maxAmount": 500,
+  "suggestedAmount": 150,
+  "hostName": "Owner",
+  "houseName": "Shradha Bhoj",
+  "upiId": "",
+  "qrUrl": "",
+  "moodLabelWhite": "Tea",
+  "moodLabelGreen": "Snacks",
+  "moodLabelSmiley": "Thali",
+  "moodAmountWhite": 20,
+  "moodAmountGreen": 60,
+  "moodAmountSmiley": 150,
+  "moodMaxWhite": 50,
+  "moodMaxGreen": 150,
+  "moodMaxSmiley": 400
+}
