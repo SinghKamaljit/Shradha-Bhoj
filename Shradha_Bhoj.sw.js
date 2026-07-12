@@ -1,6 +1,6 @@
 const CACHE_NAME = 'shradha-bhoj-v1';
 const APP_SHELL = [
-    './Shradha_Bhoj.html',
+    './',
     './Shradha_Bhoj.manifest.json',
     './Shradha_Bhoj-icon-192.png',
     './Shradha_Bhoj-icon-512.png'
